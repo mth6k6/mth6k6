@@ -2,7 +2,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-  <h2> Software Developer Graduate </h2>
+  <h2> Web Application Developer Graduate </h2>
   
 </h1>
 
@@ -10,11 +10,11 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From South Africa.
 
-- :telescope: ICT graduate currently looking for Internship in IT field.
+- :telescope: ICT graduate currently looking for Internship or Entry level job in IT field.
 
 - :seedling: Currently teaching myself other technologies.
 
-- :zap: In my free time, I do research on new frameworks.
+- :zap: In my free time, I do mini projects so can familarize myself with other tech stack.
 
 ---
 
