@@ -2,7 +2,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-  <h2> Web Application Developer Graduate </h2>
+  <h2> Jonior Software Developer</h2>
   
 </h1>
 
