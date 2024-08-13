@@ -8,7 +8,7 @@
 
 
 ### :woman_technologist: About Me :
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From South Africa.
+I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From South Africa.
 
 - :telescope: ICT graduate currently looking for Internship or Entry level job in IT field.
 
