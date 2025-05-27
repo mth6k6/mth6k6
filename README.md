@@ -2,7 +2,7 @@
   hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
-  <h2> Jonior Software Developer</h2>
+  <h2> Junior Software Developer</h2>
   
 </h1>
 
@@ -10,14 +10,9 @@
 ### :woman_technologist: About Me :
 I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> From South Africa.
 
-- :telescope: ICT graduate currently looking for Internship or Entry level job in IT field.
-
-- :seedling: Currently teaching myself other technologies.
-
-- :zap: In my free time, I do mini projects so can familarize myself with other tech stack.
-
----
-
+- :telescope: Motivated ICT graduate with practical experience in software development and desktop support, now seeking an entry-level opportunity in the IT industry.
+- :seedling: Actively expanding my knowledge by exploring new technologies.
+- :zap: I dedicate time to side projects to maintain and grow my expertise.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -31,5 +26,6 @@ I am a Junior Software Developer <img src="https://media.giphy.com/media/WUlplcM
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg" title=".NET Core" alt=".NET Core" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40"/>
 
 </div>
